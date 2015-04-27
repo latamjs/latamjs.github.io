@@ -1,3 +1,0 @@
-# latamjs.github.io 
-
-Under construction...
