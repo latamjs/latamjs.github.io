@@ -24,6 +24,10 @@ npm run build
 git push
 ```
 
+# Contributing
+
+[Contributing](https://github.com/latamjs/latamjs.github.io/blob/master/contributing.md)
+
 # License
 
 MIT
