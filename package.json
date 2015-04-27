@@ -1,0 +1,25 @@
+{
+  "name": "latamjs.github.io",
+  "version": "1.0.0",
+  "description": "Todas las comunidades de JavaScripters en latinoamérica convergen en LatamJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/latamjs/latamjs.github.io.git"
+  },
+  "homepage": "https://github.com/latamjs/latamjs.github.io",
+  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/latamjs/latamjs.github.io/issues"
+  },
+  "scripts": {
+    "start": "stylus css/all.styl --include-css -o dist --watch",
+    "build": "stylus css/all.styl --include-css -o dist && cleancss dist/all.css -o dist/all.css"
+  },
+  "devDependencies": {
+    "nib": "1.1.0",
+    "normalize.css": "3.0.3",
+    "stylus": "0.51.0"
+  }
+}
