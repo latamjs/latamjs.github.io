@@ -15,7 +15,7 @@
   },
   "scripts": {
     "start": "stylus css/all.styl --include-css -o dist --watch",
-    "build": "stylus css/all.styl --include-css -o dist && cleancss dist/all.css -o dist/all.css"
+    "build": "stylus css/all.styl --include-css -o dist && cleancss dist/all.css -o dist/all.css --skip-restructuring"
   },
   "devDependencies": {
     "nib": "1.1.0",
