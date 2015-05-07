@@ -1,12 +1,12 @@
-# latamjs.github.io
+# [latamjs.org](http://latamjs.org)
 
-> Todas las comunidades de JavaScripters en latinoamérica convergen en LatamJS
+> _Un punto de encuentro para todas las comunidades de JavaScript en latinoamérica_
 
 # Install
 
 ```bash
-git clone https://github.com/latamjs/latamjs.github.io.git
-cd latamjs.github.io
+git clone https://github.com/latamjs/latamjs.github.io.git latamjs.org
+cd latamjs.org
 npm install
 ```
 
